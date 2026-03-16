@@ -1,7 +1,5 @@
 # High-Performance Bank System (Java)
 
-**Trade Desk ICA Challenge Implementation Guide**
-
 This document outlines the architectural design and implementation strategy for a high-performance banking system simulation. The design is optimized to handle large-scale transaction volumes and real-time ranking queries within the constraints of competitive programming environments like CodeSignal.
 
 ---
